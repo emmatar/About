@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @emmatar
-- 👀 I’m interested in cars, drones, and learning to code.
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on ideas that could help shape the type of developer i'd like to become. 
+- 👋 Hi, I’m Elijah!
+- 👀 I’m interested in creating fun projects that make positive changes.
 - 📫 How to reach me: Email: m.matar515@gmail.com
 
 <!---
